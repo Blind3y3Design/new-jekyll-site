@@ -1,0 +1,10 @@
+.archive-item {
+	list-style: none;
+	@extend %clearfix;
+}
+.archive-link {
+
+}
+.archive-time {
+	float: right;
+}
