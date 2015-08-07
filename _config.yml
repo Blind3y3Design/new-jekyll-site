@@ -10,7 +10,7 @@ tagline:          'Thoughts and Lessons from a Front-End Architect'
 description:      'Thoughts and Lessons from a Front-End Architect'
 url:              http://blind3y3design.github.io
 paginate:         1
-baseurl:          ""
+baseurl:          "/"
 
 # Assets
 #
